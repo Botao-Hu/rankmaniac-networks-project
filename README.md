@@ -15,5 +15,5 @@ As a result, our team beated the last year champion in accuracy and efficiency.
 ## Usage
 
 * ```rankmaniac.py``` and ```uploader.py``` are wrappers of AWS-MapReduce interaction.
-* Please consult ```./data``` for MapReduce implementation, PageRank algorithm and optimization.
+* Please consult ```./data``` for MapReduce implementation, PageRank algorithm and optimization. Ignore `./data/test` which works for debugging.
 * Test matrix and rank solution are provided in ```./local_test_data``` and ```./sols``` as well.
