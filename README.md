@@ -1,7 +1,5 @@
 # rankmaniac-networks-project
 
-__UNDER CONSTRUCTION__
-
 *CS144 Network Economics course project, Caltech, spring 2018. Contributor: Botao Hu, Guanya Shi and Hangwen Lu as __[Team Kaigoo]__.*
 
 ## Overview
